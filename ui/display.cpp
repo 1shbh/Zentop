@@ -13,7 +13,7 @@ void Display::render(const CpuMonitor &cpu,
 
     clearScreen();
 
-    std::cout << "==== SYSTEM MONITOR ====\n\n";
+    std::cout << "========== SYSTEM MONITOR ==========\n\n";
 
     cpu.render();
     mem.render();
