@@ -1,13 +1,8 @@
-# Zentop ⚡
+# Zentop
 
 A fast, lightweight terminal-based system monitor for Linux.
 
 Zentop displays real-time CPU, memory, uptime/load, network, disk, and top processes in a clean, continuously refreshing dashboard — built from scratch in C++ using `/proc`.
-
----
-
-## Demo
-
 
 ![zentop demo](assets/demo.gif) -->
 
@@ -67,17 +62,11 @@ make
 ```bash
 make
 ```
-
----
-
 ## Run
 
 ```bash
 ./zentop
 ```
-
----
-
 ## Install
 
 ### User (recommended)
@@ -91,17 +80,11 @@ If needed:
 ```bash
 export PATH="$HOME/.local/bin:$PATH"
 ```
-
----
-
 ### System-wide
 
 ```bash
 sudo make install
 ```
-
----
-
 ## Uninstall
 
 ```bash
