@@ -1,0 +1,10 @@
+# Build outputs
+zentop
+monitor
+*.o
+
+# Editors
+.vscode/
+
+# OS files
+.DS_Store
