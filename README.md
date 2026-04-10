@@ -2,7 +2,7 @@
 
 A fast, lightweight terminal-based system monitor for Linux.
 
-Zentop displays real-time CPU, memory, uptime/load, network, disk, and top processes in a clean, continuously refreshing dashboard — built from scratch in C++ using `/proc`.
+Zentop displays real-time CPU, memory, uptime/load, network, disk, and top processes in a clean, continuously refreshing dashboard. Built from scratch in C++ using `/proc`.
 
 ![zentop demo](assets/demo.gif) -->
 
